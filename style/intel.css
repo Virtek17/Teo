@@ -1,0 +1,128 @@
+.header {
+  background-color: #477f7f;
+  height: 115px;
+}
+
+.container {
+  max-width: 1640px;
+  margin: 0 auto;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: 24px;
+  color: white;
+  max-width: 181px;
+  font-weight: bold;
+  text-align: center;
+
+  padding-top: 22px;
+}
+
+.btn-go {
+  border-radius: 25px;
+  background: rgb(33, 81, 81);
+  width: 100px;
+  height: 46px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: rgb(255, 255, 255);
+  font-family: "Nunito", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+
+  position: relative;
+  z-index: 3;
+  margin-top: 15px;
+}
+
+.main {
+  height: 843px;
+  background-image: url("img/intel-bg.png");
+  background-size: 100vw;
+  background-repeat: no-repeat;
+  background-position: 0% 100%;
+}
+
+.main-container {
+  display: flex;
+  justify-content: right;
+  align-items: baseline;
+  gap: 164px;
+}
+
+.intel-main-txt {
+  margin-top: 185px;
+  max-width: 447px;
+
+  color: rgba(255, 255, 255, 0.8);
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.intel-main-txt span {
+  font-size: 36px;
+}
+
+.intel-reg {
+  width: 430px;
+  height: 568px;
+  background: rgb(246, 240, 229);
+  margin-right: 60px;
+}
+.intel-reg__txt {
+  height: 103px;
+  background: rgb(33, 81, 81);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  font-family: "Nunito", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+}
+.intel-reg__btn {
+  width: 358px;
+  height: 74px;
+  background: rgb(33, 81, 81);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 49px auto;
+
+  color: rgb(255, 255, 255);
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+}
+.inte-reg__input {
+  color: rgb(33, 81, 81);
+  font-family: "Nunito", sans-serif;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.checkbox {
+  display: flex;
+  justify-content: center;
+  padding-left: 21px;
+  gap: 11px;
+  margin: 273px auto;
+}
+
+.checkbox__text {
+  color: rgb(33, 81, 81);
+  font-family: "Nunito", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
