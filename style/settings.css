@@ -103,7 +103,7 @@ body {
 }
 
 .main {
-  background-image: url("img/set-bg-1.png"), url("img/set-bg-2.png");
+  background-image: url("../img/set-bg-1.png"), url("../img/set-bg-2.png");
   background-repeat: no-repeat;
   background-position: left bottom, right;
 }

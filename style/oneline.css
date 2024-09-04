@@ -103,7 +103,7 @@ body {
 }
 
 .main {
-  background-image: url("img/oneline-bg.png");
+  background-image: url("../img/oneline-bg.png");
   background-repeat: no-repeat;
   background-position: 100% -150%;
 }

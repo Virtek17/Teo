@@ -45,7 +45,7 @@
 
 .main {
   height: 843px;
-  background-image: url("img/intel-bg.png");
+  background-image: url("../img/intel-bg.png");
   background-size: 100vw;
   background-repeat: no-repeat;
   background-position: 0% 100%;
