@@ -57,7 +57,7 @@ body {
 }
 .input::placeholder {
   color: rgb(33, 81, 81);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -74,7 +74,7 @@ body {
   align-items: center;
 
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 24px;
   font-weight: 700;
 
@@ -84,10 +84,10 @@ body {
 
 .links {
   margin-top: 30px;
-  color: rgb(33, 81, 81);
+  color: rgb(255, 255, 255);
   display: flex;
   justify-content: space-between;
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -119,7 +119,7 @@ body {
 
 .main-title {
   color: rgb(247, 248, 240);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 36px;
@@ -134,7 +134,7 @@ body {
 }
 .point {
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 36px;
@@ -169,14 +169,14 @@ body {
 
 .footer-title {
   color: rgb(33, 81, 81);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 20px;
   font-weight: 700;
   line-height: 30px;
 }
 .footer-link {
   color: rgb(33, 81, 81);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 15px;
   font-weight: 700;
   text-align: right;
@@ -194,7 +194,7 @@ body {
   width: 285px;
   height: 332px;
   color: rgba(255, 255, 255, 0.523);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;

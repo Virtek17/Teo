@@ -34,7 +34,7 @@
   align-items: center;
 
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 24px;
   font-weight: 700;
 
@@ -45,7 +45,7 @@
 
 .main {
   height: 843px;
-  background-image: url("../img/intel-bg.png");
+  background-image: url("/img/intel-bg.png");
   background-size: 100vw;
   background-repeat: no-repeat;
   background-position: 0% 100%;
@@ -63,7 +63,7 @@
   max-width: 447px;
 
   color: rgba(255, 255, 255, 0.8);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 20px;
   font-weight: 700;
 }
@@ -84,7 +84,7 @@
   justify-content: center;
   align-items: center;
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 36px;
@@ -99,14 +99,14 @@
   margin: 49px auto;
 
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 20px;
   font-weight: 700;
   line-height: 30px;
 }
 .inte-reg__input {
   color: rgb(33, 81, 81);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 45px;
   font-weight: 700;
   line-height: 24px;
@@ -122,7 +122,7 @@
 
 .checkbox__text {
   color: rgb(33, 81, 81);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }

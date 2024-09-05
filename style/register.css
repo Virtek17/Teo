@@ -57,7 +57,7 @@ body {
 }
 .input::placeholder {
   color: rgb(33, 81, 81);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -74,7 +74,7 @@ body {
   align-items: center;
 
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 24px;
   font-weight: 700;
 
@@ -84,10 +84,10 @@ body {
 
 .links {
   margin-top: 30px;
-  color: rgb(33, 81, 81);
+  color: rgb(255, 255, 255);
   display: flex;
   justify-content: space-between;
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -108,7 +108,9 @@ body {
   background-repeat: no-repeat;
   background-position: left, right;
 }
-
+.main-bg {
+  background-color: #53919486;
+}
 .main-container {
   display: flex;
   justify-content: left;
@@ -132,14 +134,14 @@ body {
   background: rgb(71, 127, 127);
 
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 20px;
   font-weight: 700;
 }
 .aisde-btn_settings {
   background-color: transparent;
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 20px;
   font-weight: 700;
 }
@@ -148,7 +150,7 @@ body {
 }
 .point {
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 36px;
@@ -170,7 +172,7 @@ form {
 
 label span {
   color: rgb(255, 255, 255);
-  font-family: "Nunito", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -181,6 +183,12 @@ label input {
   width: 636px;
   height: 34.64px;
   padding-left: 10px;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  font-size: 16px;
+}
+
+label input::placeholder {
+  color: #215151;
 }
 
 .user-info {
@@ -220,28 +228,27 @@ label input {
 
 .text-absolute-1 {
   position: absolute;
-  left: 10px;
+  left: 5px;
   bottom: 50px;
 
-  width: 258px;
+  width: 240px;
   height: 244.48px;
-
-  color: rgb(255, 255, 255, 0.8);
-  font-family: "Nunito", sans-serif;
+  color: rgba(255, 255, 255, 0.614);
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
 }
 .text-absolute-2 {
   position: absolute;
-  bottom: 80px;
+  bottom: 180px;
   right: 270px;
 
   width: 189px;
   height: 173.21px;
 
-  color: rgb(255, 255, 255, 0.8);
-  font-family: "Nunito", sans-serif;
+  color: rgba(255, 255, 255, 0.62);
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
