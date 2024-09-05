@@ -105,7 +105,6 @@ body {
 .main {
   z-index: 2;
   position: relative;
-  border: 1px solid red;
   height: 380px;
 }
 
